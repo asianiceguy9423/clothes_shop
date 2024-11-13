@@ -12,7 +12,7 @@ https://asianiceguy9423.github.io/clothesshop/
 
 ### 網站操作
 - 首頁
-![官網整體](https://github.com/user-attachments/assets/4f9a3bb0-76ed-492b-9047-364d065c0a9e)
+![官網整體](https://github.com/user-attachments/assets/4e383349-e0a6-46e6-9e09-a774aa7472ea)
 - 彈跳提示
 ![提示1](https://github.com/user-attachments/assets/aeb7b503-db07-48ad-b09d-f279cf26543b)
 ![提示2](https://github.com/user-attachments/assets/805f1b4d-54f1-4b36-9318-57f319882dde)
