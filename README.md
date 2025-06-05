@@ -1,5 +1,5 @@
 # 成衣購物網
-https://asianiceguy9423.github.io/clothesshop/
+https://asianiceguy9423.github.io/clothes_shop/
 <br>
 我使用 Vue.js 架構開發這個購物網站，過程中整合了響應式設計與操作流程優化，目的是打造一個專業且好用的前端介面，讓使用者在各種裝置上都能順暢操作。
 <hr>
